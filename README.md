@@ -12,4 +12,5 @@ https://github.com/duile11/ESP32_Gauges_dual_FORD/blob/main/ESP32%20Gauges%20dua
 Bluetooth Serial:
 realiza el monitoreo de variables principales a traves de bluetooth clásico, mediante la app "Serial Bluetooth terminal"
 
+https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal&hl=es_EC
 
