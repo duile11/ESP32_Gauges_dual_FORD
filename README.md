@@ -9,3 +9,7 @@ Controla salidas digitales de acuerdo a los rangos de temperatura a los transist
 
 https://github.com/duile11/ESP32_Gauges_dual_FORD/blob/main/ESP32%20Gauges%20dual.jpg
 
+Bluetooth Serial:
+realiza el monitoreo de variables principales a traves de bluetooth clásico, mediante la app "Serial Bluetooth terminal"
+
+
